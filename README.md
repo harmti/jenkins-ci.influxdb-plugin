@@ -1,3 +1,7 @@
+# Note
+
+This is obsolete, use instead the official version https://github.com/jenkinsci/influxdb-plugin
+
 # InfluxDB Jenkins Plugin
 
 This plugin allows sending build metrics to [InfluxDB](https://influxdata.com/) time series database, to be used for analysis and with status radiators. Recommeded option is to use Grafana (http://grafana.org) for visualizing the data.
